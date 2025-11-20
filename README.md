@@ -46,6 +46,6 @@ The **pain** CPU contains:
 - Subtraction (SUB)
 - **RAM** for data storage
 - **Load/Store instructions** using an 8-bit immediate offset
-- A simple single-cycle datapath that executes one instruction per tick
+- A single cycle datapath that executes one instruction per tick
 
 Registers are referenced symbolically in the assembly code (Rd, Rn, Rm, Rt) but encoded as 2-bit values in machine code.
