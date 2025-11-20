@@ -1,5 +1,5 @@
 # Pain CPU User Manual
-Michael Lamaze & Leonard Weber
+**Authors:** Michael Lamaze & Leonard Weber
 
 **Pain** is a 22-bit CPU. It has four general purpose registers, supports both addition and subtraction, and includes load/store instructions with immediate offsets. The CPU is implemented in Logisim, with a Python assembler used to convert assembly instructions into machine code.
 
